@@ -1,4 +1,4 @@
-from statistics import LinearRegression
+#from statistics import LinearRegression
 from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.corpus import twitter_samples, stopwords
 from nltk.tag import pos_tag
